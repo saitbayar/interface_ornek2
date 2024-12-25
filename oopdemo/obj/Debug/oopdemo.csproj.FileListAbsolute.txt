@@ -1,0 +1,8 @@
+C:\Users\veyse\Desktop\c#\oopdemo\oopdemo\obj\Debug\oopdemo.csproj.AssemblyReference.cache
+C:\Users\veyse\Desktop\c#\oopdemo\oopdemo\obj\Debug\oopdemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\veyse\Desktop\c#\oopdemo\oopdemo\obj\Debug\oopdemo.csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\c#\oopdemo\oopdemo\bin\Debug\oopdemo.exe.config
+C:\Users\veyse\Desktop\c#\oopdemo\oopdemo\bin\Debug\oopdemo.exe
+C:\Users\veyse\Desktop\c#\oopdemo\oopdemo\bin\Debug\oopdemo.pdb
+C:\Users\veyse\Desktop\c#\oopdemo\oopdemo\obj\Debug\oopdemo.exe
+C:\Users\veyse\Desktop\c#\oopdemo\oopdemo\obj\Debug\oopdemo.pdb
